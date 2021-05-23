@@ -39,7 +39,7 @@ It detects many Type of Attacks, for example:
 Some of our current Features:
 
 * Ratelimiting
-* reCaptcha
+* reCaptcha (only in the paid version)
 * Instant Notification if malicious Attack is coming towards your Webserver.
 * "Sensor"-like Captcha Mode (BETA)
 * Cloudflare Compatibility
