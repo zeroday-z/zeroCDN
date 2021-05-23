@@ -27,10 +27,9 @@ It detects many Type of Attacks, for example:
 * HTTP-POSTFLOOD
 * HTTP-RANDOM
 * SOCKET-FLOOD
-* GET
-* POST
+* HTTP-HEAD
+* JSBYPASS-GET/POST
 * CF-BYPASS
-* UDP Attacks
 * SYNFLOOD
 * BOT-REQ
 
@@ -47,6 +46,9 @@ Some of our current Features:
 ## Contributing
 Currently the Project is closed-source for the public.
 If you would like to help us anyways, you can do so if you find Bypasses or Bugs in our System.
+
+## Credits
+zeroday - Discord: zeroday#1337
 
 ## License
 zeroCDN is currently closed-source, but is licensed under the [GNU General Public License v3.](https://www.gnu.org/licenses/gpl-3.0.txt)
