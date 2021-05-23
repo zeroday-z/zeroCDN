@@ -43,6 +43,9 @@ Some of our current Features:
 * "Sensor"-like Captcha Mode (BETA)
 * Cloudflare Compatibility
 
+## Screenshots
+![alt text](https://i.imgur.com/94PnO7b.png)
+
 ## Contributing
 Currently the Project is closed-source for the public.
 If you would like to help us anyways, you can do so if you find Bypasses or Bugs in our System.
