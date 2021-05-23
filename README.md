@@ -1,4 +1,4 @@
-# zeroCDN - GVMPC
+# zeroCDN
 ![alt text](https://imgur.com/AraCZ0M.png)
 
 
